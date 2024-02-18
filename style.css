@@ -15,3 +15,16 @@ nav ul {
 nav li {
     display: table-cell;
 }
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 30px 30px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background: #016780;
+    color: white;
+}

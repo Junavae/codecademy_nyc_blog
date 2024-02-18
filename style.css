@@ -24,7 +24,8 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 30px 30px;
+    font-size: 25px;
+    padding: 10px 10px;
     text-decoration: none;
 }
 

@@ -101,6 +101,7 @@ footer p {
     color: white;
     text-decoration: none;
     padding: 10px;
+    font-size: 25px;
     text-align: center;
     width: 100%;
     box-sizing: border-box;
@@ -108,7 +109,6 @@ footer p {
 
 footer a {
     color: white;
-    text-decoration: none;
     text-align: center;
     width: 100%;
 }

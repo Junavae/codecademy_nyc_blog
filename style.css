@@ -1,6 +1,10 @@
+/* body */
+
 body {
     background-color: #e6e6e6;
 }
+
+/* nav */
 
 nav ul {
     list-style-type: none;
@@ -27,4 +31,22 @@ li a {
 li a:hover {
     background: #016780;
     color: white;
+}
+
+/* I'm not sure what this h2 a:hover is doing */
+
+h2 a:hover {
+    background-color: #b6b6b6;
+}
+
+/* figcaption */
+
+figcaption {
+    text-align: left;
+}
+
+/* header */
+
+header {
+    margin-left: 14px;
 }
